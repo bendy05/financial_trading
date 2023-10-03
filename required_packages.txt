@@ -1,0 +1,11 @@
+requests
+pandas_datareader
+yfinance
+ccxt
+bt
+talib
+pandas
+matplotlib
+numpy
+datetime
+plotly.graph_objects
